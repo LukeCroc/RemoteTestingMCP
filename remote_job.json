@@ -1,12 +1,12 @@
 {
-  "status": "processing",
+  "status": "completed",
   "job": {
     "id": "unique_job_id",
     "command": "echo 'Hello World1.1' && ls -la"
   },
   "result": {
-    "stdout": null,
-    "stderr": null,
-    "return_code": null
+    "stdout": "'Hello World1.1' \n",
+    "stderr": "'ls' \u4e0d\u662f\u5185\u90e8\u6216\u5916\u90e8\u547d\u4ee4\uff0c\u4e5f\u4e0d\u662f\u53ef\u8fd0\u884c\u7684\u7a0b\u5e8f\n\u6216\u6279\u5904\u7406\u6587\u4ef6\u3002\n",
+    "return_code": 1
   }
 }
