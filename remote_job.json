@@ -1,5 +1,5 @@
 {
-  "status": "pending",
+  "status": "processing",
   "job": {
     "id": "unique_job_id",
     "command": "echo 'Hello World101' && ls -la"
