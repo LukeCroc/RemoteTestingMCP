@@ -1,0 +1,12 @@
+{
+  "status": "pending",
+  "job": {
+    "id": "unique_job_id",
+    "command": "echo 'Hello World' && ls -la"
+  },
+  "result": {
+    "stdout": null,
+    "stderr": null,
+    "return_code": null
+  }
+}
