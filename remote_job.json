@@ -2,7 +2,7 @@
   "status": "pending",
   "job": {
     "id": "unique_job_id",
-    "command": "echo 'Hello World' && ls -la"
+    "command": "echo 'Hello World1.1' && ls -la"
   },
   "result": {
     "stdout": null,
