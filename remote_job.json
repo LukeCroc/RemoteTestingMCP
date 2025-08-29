@@ -1,0 +1,12 @@
+{
+  "status": "idle",
+  "job": {
+    "id": null,
+    "command": null
+  },
+  "result": {
+    "stdout": null,
+    "stderr": null,
+    "return_code": null
+  }
+}
