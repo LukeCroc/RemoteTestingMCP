@@ -1,8 +1,8 @@
 {
-  "status": "idle",
+  "status": "pending",
   "job": {
-    "id": null,
-    "command": null
+    "id": "unique_job_id",
+    "command": "echo 'Hello World' && ls -la"
   },
   "result": {
     "stdout": null,
