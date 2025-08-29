@@ -1,8 +1,8 @@
 {
-  "status": "completed",
+  "status": "pending",
   "job": {
     "id": "unique_job_id",
-    "command": "echo 'Hello World101' && ls -la"
+    "command": "echo 'Hello World151' && ls -la"
   },
   "result": {
     "stdout": "'Hello World101' \n",
