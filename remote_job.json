@@ -1,5 +1,5 @@
 {
-  "status": "pending",
+  "status": "completed",
   "job": {
     "id": "89c3b714-c239-4ee6-999d-30fee7a99850",
     "command": "echo 'Hello World141' && ls -la"
