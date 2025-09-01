@@ -13,6 +13,9 @@
         "C:\\Projects\\MCP\\mcp-server-demo",
         "run",
         "main.py"
+      ],
+      "alwaysAllow": [
+        "remote_test"
       ]
     }
   }
