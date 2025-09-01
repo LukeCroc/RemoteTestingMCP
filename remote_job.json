@@ -1,11 +1,11 @@
 {
-  "status": "pending",
+  "status": "completed",
   "job": {
     "id": "e26c42e6-cb81-4c09-8188-b1e521709dd8",
     "command": "echo 'Hello World181' && ls -la"
   },
   "result": {
-    "stdout": null,
+    "stdout": "0",
     "stderr": null,
     "return_code": null
   }
