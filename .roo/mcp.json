@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "RemoteTesting": {
+      "name": "RemoteTesting",
+      "type": "stdio",
+      "description": "Test Remotely",
+      "isActive": true,
+      "registryUrl": "",
+      "tags": [],
+      "command": "uv",
+      "args": [
+        "--directory",
+        "C:\\Projects\\MCP\\mcp-server-demo",
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}
