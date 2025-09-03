@@ -1,8 +1,8 @@
 {
   "status": "pending",
   "job": {
-    "id": "56539cd9-6dff-4f35-b80a-20a84ac65200",
-    "command": "echo 'test command'"
+    "id": "b4725eca-a9e7-4d06-b57f-246abc14d1ea",
+    "command": "echo 'test command 2'"
   },
   "result": {
     "stdout": null,
