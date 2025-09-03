@@ -14,9 +14,7 @@
         "run",
         "main.py"
       ],
-      "alwaysAllow": [
-        "remote_test"
-      ]
+      "alwaysAllow": []
     }
   }
 }
