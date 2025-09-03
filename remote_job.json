@@ -1,8 +1,8 @@
 {
   "status": "pending",
   "job": {
-    "id": "f3681978-11fa-4d96-a3fa-f7aa6376a2d4",
-    "command": "echo Second test from MCP - checking sync process"
+    "id": "56539cd9-6dff-4f35-b80a-20a84ac65200",
+    "command": "echo 'test command'"
   },
   "result": {
     "stdout": null,
