@@ -1,8 +1,8 @@
 {
   "status": "pending",
   "job": {
-    "id": "0e217411-e90a-40ab-b7a1-ad7879511185",
-    "command": "echo Hello World 101!"
+    "id": "d68d9d80-987e-47fd-97b5-97c62bd617b8",
+    "command": "echo Hello from MCP test"
   },
   "result": {
     "stdout": null,
