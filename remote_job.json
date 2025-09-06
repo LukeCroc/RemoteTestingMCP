@@ -2,7 +2,7 @@
   "status": "pending",
   "job": {
     "id": "eeacbbf6-658b-4fad-b5f7-3c0b925d357f",
-    "command": "echo 'new test command'"
+    "command": "echo 'new test command01'"
   },
   "result": {
     "stdout": null,
